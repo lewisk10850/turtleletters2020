@@ -63,9 +63,9 @@ def turtleLetter(letter,tur):
 	tur.circle(18,235)
 	tur.pu()
 	tur.right(150)
-	tur.fd(27)
+	tur.fd(25)
 	tur.right(90)
-	tur.fd(40)
+	tur.fd(39)
 
     elif letter == "E":
 	tur.pu()
@@ -89,7 +89,7 @@ def turtleLetter(letter,tur):
 	tur.pu()
 	tur.fd(5)
 	tur.left(90)
-	tur.fd(11)
+	tur.fd(10)
 	tur.right(90)
     elif letter == "F":
 	tur.pu()
@@ -110,7 +110,7 @@ def turtleLetter(letter,tur):
 	tur.pu()
 	tur.fd(5)
 	tur.left(90)
-	tur.fd(11)
+	tur.fd(10)
 	tur.right(90)
     elif letter == "G":
 	    pass		
