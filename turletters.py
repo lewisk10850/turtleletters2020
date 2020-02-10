@@ -158,7 +158,7 @@ def turtleLetter(letter,tur):
         tur.bk(60)
         tur.pu()
         tur.left(90)
-        tur.fd(20
+        tur.fd(20)
     elif letter == "I":
         tur.pd()
         tur.setheading(0)
